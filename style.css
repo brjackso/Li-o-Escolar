@@ -1,9 +1,16 @@
-body{background-color: #383d58;}
+.cabecalho {background-color: #383d58;}
 body {
     background-color: #383D58;
     color: white;
-    }
+    display:flex;
+}
     header {
         background-color: #383D58;
         color: white;
         }
+        .cabecalho-imagem{
+        }
+        .cabecalho-imagem{
+            width: 20%;
+            }
+            
