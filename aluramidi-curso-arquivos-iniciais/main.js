@@ -4,4 +4,7 @@ function tocaSomPom(){
 
     document.querySelector('.tecla_som').oneclick = tocaSomPom;
 
-  const listaDeTeclas = document.querySelectorAll('.tecla');
+ const listaDeTeclas = document.querySelectorAll('.tecla');
+let contador = 0;
+ listaDeTeclas[0].oneclick = tocaSomPom;
+// Estrutura de Repetição - Enquanto
